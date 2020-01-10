@@ -1,6 +1,6 @@
 new Vue({
   el: '#app',
- 
+  
   vuetify: new Vuetify(),
   data: () => ({
     drawer: null,
@@ -39,7 +39,7 @@ for (var i = 0, length = radios2.length; i < length; i++) {
     // only one radio can be logically checked, don't check the rest
     break;
       }
-   
+    
  }
 }
 let handle2 = function()
@@ -73,7 +73,7 @@ var radios3 = document.getElementsByName('Completed3');
     // only one radio can be logically checked, don't check the rest
     break;
       }
-   
+    
  }
 }
 let handle3 = function()
@@ -106,7 +106,7 @@ for (var i = 0, length = radios2.length; i < length; i++) {
     // only one radio can be logically checked, don't check the rest
     break;
       }
-   
+    
  }
 }
 
