@@ -1,2 +1,2 @@
 # OurVisit
-Prototype OurVisit application
+Prototype OurVisit web application for Lambent Data
